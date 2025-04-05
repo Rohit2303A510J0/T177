@@ -42,6 +42,13 @@ A dataset comprising images of classrooms across various **job roles**, along wi
 
 🔗 [https://github.com/Rohit2303A510J0/T177/blob/main/ClassroomMonitoring.java]
 
+### 🎥 Demo Video
+> 🎬 A live demonstration showing how the monitoring system processes data and makes decisions.
+
+📽️ [https://github.com/Rohit2303A510J0/T177/blob/main/Project_demo.mp4]
+
+---
+
 ## 📍 How to Run
 
 1. Compile the Java file:
