@@ -17,9 +17,8 @@ A dataset comprising images of classrooms across various **job roles**, along wi
 ---
 
 ### ✅ Expected Solution
-- An image-based analysis system that can evaluate classroom sessions.
+- This is only the algorithm implementation of checking to flag sessions and the image analysis part is ommited as no dynamic coding required.
 - The system should **flag sessions** needing **enhanced monitoring** or even **cancellation**.
-- It must leverage computer vision/image processing techniques and optionally use intelligent algorithms for classification or anomaly detection.
 
 ---
 
